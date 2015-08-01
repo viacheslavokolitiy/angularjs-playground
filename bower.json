@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-playground",
+  "version": "0.0.0",
+  "authors": [
+    "Viacheslav Okolitiy <okolitiy.viacheslav@gmail.com>"
+  ],
+  "description": "Simple playground",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "~1.4.3",
+    "jquery": ">= 1.9.1",
+    "bootstrap": "~3.3.5",
+    "angular-cookies": "~1.4.3"
+  },
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT"
+}
